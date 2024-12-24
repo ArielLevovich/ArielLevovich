@@ -24,24 +24,6 @@
 | [**Cyberbit**](#)     | A cybersecurity exploration project. 🔐               | **C#**         |
 | [**ex4**](#)          | Exploring C's potential with unique programs. 💻       | **C**          |
 
----
-
-## 🌈 **Let's Make It Fun!**
-
-✨ Random Quote Generator:
-```python
-import random
-
-quotes = [
-    "The future belongs to those who prepare for it today. 🌟",
-    "Code is like humor. When you have to explain it, it’s bad. 😄",
-    "If it works, don’t touch it! 🚀"
-]
-
-print(random.choice(quotes))
-```
-
----
 
 ### 🎨 **My Toolbox**
 
