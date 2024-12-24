@@ -1,6 +1,4 @@
-Here’s the complete fixed-up README content in code format without any comments:
 
-```markdown
 # 👋 Hi there, I'm **Ariel Levovich**! 🌟
 
 ![Banner](https://github.com/abhisheknaiidu/awesome-github-profile-readme/raw/main/templates/colorful.gif)
